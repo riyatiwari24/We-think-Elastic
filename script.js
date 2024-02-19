@@ -4,118 +4,118 @@
       overflow: "hidden",
     });
   
-    tl.to(".st_img1", {
+    tl.to(".img1", {
       display: "block",
       duration: 0.0001,
     });
   
-    tl.to(".st_img1", {
+    tl.to(".img1", {
       display: "none",
     });
-    tl.to(".st_img2", {
+    tl.to(".img2", {
       display: "block",
       duration: 0.0001,
     });
   
-    tl.to(".st_img2", {
+    tl.to(".img2", {
       display: "none",
     });
-    tl.to(".st_img3", {
+    tl.to(".img3", {
       display: "block",
       duration: 0.0001,
     });
   
-    tl.to(".st_img3", {
+    tl.to(".img3", {
       display: "none",
     });
-    tl.to(".st_img4", {
+    tl.to(".img4", {
       display: "block",
       duration: 0.0001,
     });
   
-    tl.to(".st_img4", {
+    tl.to(".img4", {
       display: "none",
     });
-    tl.to(".st_img5", {
+    tl.to(".img5", {
       display: "block",
       duration: 0.0001,
     });
   
-    tl.to(".st_img5", {
+    tl.to(".img5", {
       display: "none",
     });
-    tl.to(".st_img6", {
+    tl.to(".img6", {
       display: "block",
       duration: 0.0001,
     });
   
-    tl.to(".st_img6", {
+    tl.to(".img6", {
       display: "none",
     });
 
    
-     tl.to(".st_img7", {
+     tl.to(".img7", {
         display: "block",
         duration: 0.0001,
       });
-    tl.to(".st_img7", {
+    tl.to(".img7", {
         display: "none",
       });
     
-    tl.to(".st_img8", {
+    tl.to(".img8", {
         display: "block",
         duration: 0.0001,
       });
 
-      tl.to(".st_img8", {
+      tl.to(".img8", {
         display: "none",
       });
      
-      tl.to(".st_img9", {
+      tl.to(".img9", {
         display: "block",
         duration: 0.0001,
       });
     
-      tl.to(".st_img9", {
+      tl.to(".img9", {
         display: "none",
       });
 
     
-      tl.to(".st_img10", {
+      tl.to(".img10", {
         display: "block",
         duration: 0.0001,
       });
-      tl.to(".st_img10", {
+      tl.to(".img10", {
         display: "none",
       });
 
-      tl.to(".st_img11", {
+      tl.to(".img11", {
         display: "block",
         duration: 0.0001,
       });
     
-      tl.to(".st_img11", {
+      tl.to(".img11", {
         display: "none",
       });
 
 
-    tl.to(".st_img1", {
+    tl.to(".img1", {
       display: "block",
       duration: 0.0001,
     });
   
-    tl.to(".st_img1", {
+    tl.to(".img1", {
       display: "none",
     });
-    tl.to(".st_img2", {
+    tl.to(".img2", {
       display: "block",
       duration: 0.0001,
     });
   
-    tl.to(".st_img2", {
+    tl.to(".img2", {
       display: "none",
     });
-    tl.to(".st_img3", {
+    tl.to(".img3", {
       display: "block",
       duration: 0.0001,
     });
